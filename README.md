@@ -1,4 +1,4 @@
-# Code and output files for the following paper:
+# Code and output files for:
 
 # Microorganisms able to degrade chemically deconstructed plastic model compounds are widespread in the environment
 

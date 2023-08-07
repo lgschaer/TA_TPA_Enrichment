@@ -8,12 +8,13 @@ In this study we co-cultured sediments from five unique environments with either
 
 ## Scripts
 
+### Most up to date scripts in scripts_v2 directory
 
-Raw sequencing file processing: dada2_TPATAEnrich_09062021.R
+Raw sequencing file processing: dada2
 
-Diversity & community composition analysis: phyloseq_TPATAENrich_06242022.R
+Diversity & community composition analysis: phyloseq
 
-Differential abundance analysis: deseq2_10012021.R
+Differential abundance analysis: deseq2
 
 
 ## Data Outputs
@@ -43,3 +44,9 @@ Rarefied, chloroplasts removed tatpa_rarefied_nochloroplasts_rds
 folder dsq_out
 
 enriched ASVs with taxonomy: deseq_enriched_w_tax_01062023.csv
+
+
+### HPLC
+
+HPLC_TPA_TA_Experiment.csv
+
